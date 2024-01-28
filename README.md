@@ -1,2 +1,1 @@
-
 vanyakovlev.github.io
