@@ -1,1 +1,1 @@
-https://vanyakovlev.github.io
+vanyakovlev.github.io
